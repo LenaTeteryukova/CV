@@ -1,8 +1,12 @@
 <h2>Тетерюкова Елена</h2>
-<p>Telegram: @lenabroccoli
-<p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a>
-<p>29.09.1991
-<p>Москва <img style="float: right;" src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" alt="" width="150" height="150">
+<p><img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="160" height="160" 
+  alt="Иллюстрация" align="right" 
+  vspace="5" hspace="5">
+ </p> 
+<p>Telegram: @lenabroccoli</p>
+<p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a></p>
+<p>29.09.1991</p>
+<p>Москва</p>
 <h2>Junior QA</h2>
 <h3><strong>Навыки</strong></h3>
 <ul>
