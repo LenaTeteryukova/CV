@@ -1,6 +1,5 @@
+<h2><img style="float: right;" src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" alt="" width="150" height="150" /></h2>
 <h2>Тетерюкова Елена</h2>
-<h2><img src="C:\Users\Алена\Desktop\photo.jpeg" alt="" width="150" height="150" /></h2>
-<p><img src=”photo.jpeg” align=”right”></p>
 <p>Telegram: @lenabroccoli</p>
 <p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a></p>
 <p>29.09.1991</p>
@@ -33,10 +32,8 @@
 <p><strong>Руководитель отдела технической поддержки продаж poezd.ru</strong></p>
 <p>Travelmart<br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Июнь 2014 &mdash; Июнь 2021) 7 лет 1 месяц</p>
 <ul>
-<li>техническая поддержка пользователей сайта poezd.ru;</li>
-<li>поиск и фиксирование дефектов в Excel или Redmine;</li>
-<li>участие в разработке новой функциональности системы совместно с IT-отделом;</li>
-<li>тестирование новой функциональности;</li>
+<li>техническая поддержка пользователей сайта poezd.ru;<br />поиск и фиксирование дефектов в Excel или Redmine;</li>
+<li>участие в разработке новой функциональности системы совместно с IT-отделом;<br />тестирование новой функциональности;</li>
 <li>обработка возражений и претензий;</li>
 <li>работа с отчетами платежных систем: Gateline, PayOnline, CloudPayments;</li>
 <li>оформление документации по опротестованию банковских операций;</li>
@@ -48,8 +45,7 @@
 <li>работа с HTML для публикации контента на сайте (+ Notepad++);</li>
 <li>ведение и наполнение соц. сетей (Facebook, VK), модерация отзывов.</li>
 </ul>
-<p><strong>Специалист по имплементации и поддержке он-лайн платформы Corteos</strong></p>
-<p>Travelmart<br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Август 2019 &mdash; Октябрь 2019) 3 месяца</p>
+<p><strong>Специалист по имплементации и поддержке он-лайн платформы Corteos</strong><br />Travelmart<br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Август 2019 &mdash; Октябрь 2019) 3 месяца</p>
 <ul>
 <li>анализ документации продукта;</li>
 <li>проверка функциональности системы для разных пользовательских ролей (сотрудник, менеджер, администратор);</li>
