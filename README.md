@@ -13,7 +13,7 @@
 <h2>Тетерюкова Елена</h2>
         <div>
            <img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="150" height="150" class="image" alt="Photo" />
-<p>Телеграм: <a href="https://t.me/lenabroccoli">@lenabroccoli</a><br />Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova</a><br />Телефон: +7(903)257-67-03<br />Дата рождения: 29.09.1991<br>Москва<br /></p>
+<p>Телеграм: <a href="https://t.me/lenabroccoli">@lenabroccoli</a><br />Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova</a><br />Телефон:<br /> +7(903)257-67-03<br />Дата рождения: 29.09.1991<br>Город: Москва<br /></p>
 <p>
             <h2>Junior QA</h2></p>
 <h3><strong>Навыки</strong></h3>
