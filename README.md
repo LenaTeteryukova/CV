@@ -10,10 +10,10 @@
 </style>
     </head>
     <body>
-    <h2>Тетерюкова Елена</h2>
         <div>
            <img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="180" height="180" class="image" alt="Photo" />
-<p>Telegram: <a href="https://t.me/lenabroccoli">@lenabroccoli</a></p>
+  <h2>Тетерюкова Елена</h2>
+            <p>Telegram: <a href="https://t.me/lenabroccoli">@lenabroccoli</a></p>
 <p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a></p>
 <p>29.09.1991</p>
 <p>Москва</p>
