@@ -1,5 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+      <style>
+ .image { 
+    float: right;
+    margin:10px;
+    margin-top:0px;
+}
+</style>
+    </head>
+    <body>
+        <div>
+           <img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" class="image" alt="Photo" />
 <h2>Тетерюкова Елена</h2>
-<p><img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="160" height="160" alt="Иллюстрация" align="right">
 Telegram: t.me@lenabroccoli<br>
 Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a><br>
 29.09.1991<br>
@@ -65,3 +79,6 @@ Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a
 <p>Опыт работы в поддержке научил терпению и умению обнаружить ошибку быстрее, чем на неё наткнется клиент. Хорошо оформляю документацию, шустро гуглю, быстро обучаюсь, легко нахожу общий язык с разными людьми.</p>
 <p>Достигнув потолка в профессиональном развитии, мне стало интересно перезагрузить свою карьеру в качестве тестировщика, чтобы поработать над качеством продукта уже с другой стороны.</p>
 <p>В свободное время увлекаюсь изучением истории, путешествую, готовлю вкусняшки, воспитываю очаровательную кошку :)</p>
+ </div>
+    </body>
+</html>
