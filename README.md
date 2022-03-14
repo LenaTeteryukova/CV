@@ -1,4 +1,4 @@
-<h2>Тетерюкова Елена</h2> ![Image alt](https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg)
+<h2>Тетерюкова Елена</h2>
 <img src=”photo.jpeg” align=”right”>
 <p>Telegram: @lenabroccoli</p>
 <p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a></p>
