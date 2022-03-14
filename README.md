@@ -16,7 +16,7 @@
 <p>Телеграм: <a href="https://t.me/lenabroccoli">@lenabroccoli</a><br />Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova</a><br />Телефон:<br /> +7(903)257-67-03<br />Дата рождения: 29.09.1991<br>Город: Москва<br /></p>
 <p>
             <h2>Junior QA</h2></p>
-<h3><strong>Навыки</strong></h3>
+<h3>Навыки</h3>
 <ul>
 <li>Понимание процесса разработки ПО и методологий;</li>
 <li>Знание видов, этапов и техник тестирования ПО;</li>
@@ -40,8 +40,8 @@
 <p>Русский &mdash; родной</p>
 <p>Английский &mdash; С1 Advanced (<a href="https://www.efset.org/cert/kQ5m8p">EF SET Certificate</a>).</p>
 <h2>Опыт работы</h2>
-<p><strong>Руководитель отдела технической поддержки продаж poezd.ru</strong></p>
-<p>Travelmart<br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Июнь 2014 &mdash; Июнь 2021) 7 лет 1 месяц</p>
+<h4>Руководитель отдела технической поддержки продаж poezd.ru</h4>
+        <p><span class="bold" Travelmart</span><br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Июнь 2014 &mdash; Июнь 2021) 7 лет 1 месяц</p>
 <ul>
 <li>техническая поддержка пользователей сайта poezd.ru;<br />поиск и фиксирование дефектов в Excel или Redmine;</li>
 <li>участие в разработке новой функциональности системы совместно с IT-отделом;<br />тестирование новой функциональности;</li>
@@ -56,7 +56,8 @@
 <li>работа с HTML для публикации контента на сайте (+ Notepad++);</li>
 <li>ведение и наполнение соц. сетей (Facebook, VK), модерация отзывов.</li>
 </ul>
-<p><strong>Специалист по имплементации и поддержке он-лайн платформы Corteos</strong><br />Travelmart<br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Август 2019 &mdash; Октябрь 2019) 3 месяца</p>
+<h4>Специалист по имплементации и поддержке он-лайн платформы Corteos</h4>
+<p>Travelmart<br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Август 2019 &mdash; Октябрь 2019) 3 месяца</p>
 <ul>
 <li>анализ документации продукта;</li>
 <li>проверка функциональности системы для разных пользовательских ролей (сотрудник, менеджер, администратор);</li>
