@@ -13,10 +13,7 @@
         <div>
            <img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="160" height="160" class="image" alt="Photo" />
   <h2>Тетерюкова Елена</h2>
-<p>Telegram: <a href="https://t.me/lenabroccoli">@lenabroccoli</a><br>
-<p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a><br>
-<p>29.09.1991<br>
-<p>Москва</p>
+<p>Telegram: <a href="https://t.me/lenabroccoli">@lenabroccoli</a><br />Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a><br />29.09.1991<br>Москва<br /></p>
 <h2>Junior QA</h2>
 <h3><strong>Навыки</strong></h3>
 <ul>
