@@ -11,11 +11,11 @@
     </head>
     <body>
         <div>
-           <img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="180" height="180" class="image" alt="Photo" />
+           <img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="170" height="170" class="image" alt="Photo" />
   <h2>Тетерюкова Елена</h2>
-            <p>Telegram: <a href="https://t.me/lenabroccoli">@lenabroccoli</a></p>
-<p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a></p>
-<p>29.09.1991</p>
+<p>Telegram: <a href="https://t.me/lenabroccoli">@lenabroccoli</a><br>
+<p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a><br>
+<p>29.09.1991<br>
 <p>Москва</p>
 <h2>Junior QA</h2>
 <h3><strong>Навыки</strong></h3>
