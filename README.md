@@ -12,7 +12,7 @@
     </head>
     <body>
         <div>
-           <img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" class="image" alt="Photo" />
+           <img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="150" height="150" class="image" alt="Photo" />
 <h2>Тетерюкова Елена</h2>
 Telegram: t.me@lenabroccoli<br>
 Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a><br>
