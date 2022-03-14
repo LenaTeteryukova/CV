@@ -1,5 +1,6 @@
 <h2>Тетерюкова Елена</h2>
-![photo](https://user-images.githubusercontent.com/101334899/158166409-eec91192-2681-4945-ba10-428922608216.jpeg)
+<h2><img src="C:\Users\Алена\Desktop\photo.jpeg" alt="" width="150" height="150" /></h2>
+<p><img src=”photo.jpeg” align=”right”></p>
 <p>Telegram: @lenabroccoli</p>
 <p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a></p>
 <p>29.09.1991</p>
