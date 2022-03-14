@@ -23,7 +23,7 @@
 <li>Разработка чек-листов и <a href="https://github.com/LenaTeteryukova/cv/blob/main/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B.xls">тест-кейсов</a>;</li>
 <li>Опыт работы в баг-трекинговых системах Redmine, Jira;</li>
 <li>Составление <a href="https://github.com/LenaTeteryukova/cv/blob/main/UFS%20Travel.xmind">mind maps</a>;</li>
-<li>Небольшой опыт ведения документации в Confluence;</li>
+<li>Небольшой опыт ведения документации в <a href="https://lenateteryukova.atlassian.net/wiki/spaces/~61c2ff5ef63ac80070bf847d/pages/524514">Confluence</a>;</li>
 <li>Понимание принципа работы клиент-серверной архитектуры;</li>
 <li>Знание моделей взаимодействия сетевых устройств (OSI и TCP/IP);</li>
 <li>Знание принципов работы протокола HTTP, его основных методов и их отличий;</li>
