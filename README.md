@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -11,13 +10,13 @@
 </style>
     </head>
     <body>
+    <h2>Тетерюкова Елена</h2>
         <div>
-           <img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="150" height="150" class="image" alt="Photo" />
-<h2>Тетерюкова Елена</h2>
-Telegram: t.me@lenabroccoli<br>
-Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a><br>
-29.09.1991<br>
-Москва</p>
+           <img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="180" height="180" class="image" alt="Photo" />
+<p>Telegram: <a href="https://t.me/lenabroccoli">@lenabroccoli</a></p>
+<p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a></p>
+<p>29.09.1991</p>
+<p>Москва</p>
 <h2>Junior QA</h2>
 <h3><strong>Навыки</strong></h3>
 <ul>
