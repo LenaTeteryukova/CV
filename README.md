@@ -1,4 +1,4 @@
-<h2><img style="float: right;" src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" alt="" width="150" height="150" /></h2>
+<h2><img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" alt="" width="150" height="150" align=”left”/></h2>
 <h2>Тетерюкова Елена</h2>
 <p>Telegram: @lenabroccoli</p>
 <p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a></p>
