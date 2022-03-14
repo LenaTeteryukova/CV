@@ -41,7 +41,7 @@
 <p>Английский &mdash; С1 Advanced (<a href="https://www.efset.org/cert/kQ5m8p">EF SET Certificate</a>).</p>
 <h2>Опыт работы</h2>
 <h4>Руководитель отдела технической поддержки продаж poezd.ru</h4>
-        <p><span class="bold" Travelmart</span><br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Июнь 2014 &mdash; Июнь 2021) 7 лет 1 месяц</p>
+        <p><strong>Travelmart</<strong>><br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Июнь 2014 &mdash; Июнь 2021) 7 лет 1 месяц</p>
 <ul>
 <li>техническая поддержка пользователей сайта poezd.ru;<br />поиск и фиксирование дефектов в Excel или Redmine;</li>
 <li>участие в разработке новой функциональности системы совместно с IT-отделом;<br />тестирование новой функциональности;</li>
@@ -57,7 +57,7 @@
 <li>ведение и наполнение соц. сетей (Facebook, VK), модерация отзывов.</li>
 </ul>
 <h4>Специалист по имплементации и поддержке он-лайн платформы Corteos</h4>
-<p>Travelmart<br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Август 2019 &mdash; Октябрь 2019) 3 месяца</p>
+<p><strong>Travelmart</strong><br />Москва, <a href="http://www.travelmart.ru">www.travelmart.ru</a> <br />(Август 2019 &mdash; Октябрь 2019) 3 месяца</p>
 <ul>
 <li>анализ документации продукта;</li>
 <li>проверка функциональности системы для разных пользовательских ролей (сотрудник, менеджер, администратор);</li>
