@@ -2,11 +2,10 @@
 <p><img src="https://github.com/LenaTeteryukova/lenateteryukova/raw/main/photo.jpeg" width="160" height="160" 
   alt="Иллюстрация" align="right" 
   vspace="5" hspace="5">
- </p> 
-<p>Telegram: @lenabroccoli</p>
-<p>Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a></p>
-<p>29.09.1991</p>
-<p>Москва</p>
+Telegram: @lenabroccoli<br>
+Email: <a href="mailto:lena.teteryukova@yandex.ru">lena.teteryukova@yandex.ru</a><br>
+29.09.1991<br>
+Москва</p>
 <h2>Junior QA</h2>
 <h3><strong>Навыки</strong></h3>
 <ul>
